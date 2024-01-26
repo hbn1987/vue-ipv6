@@ -232,22 +232,11 @@ type Scan3 = {
 }
 
 const Data1: Scan1[] = [
-  {scandate: '2021/06/24', protocal: 'ICMPv6', range: 'Global', number: '18.43M', size: '136M', download: 'http://121.40.211.121/Global_ICMPv6_20210624.zip'},
-  {scandate: '2021/06/24', protocal: 'UDP53', range: 'Global', number: '5.92M', size: '60M', download: 'http://121.40.211.121/Global_UDP53_20210624.zip'},
-  {scandate: '2021/06/24', protocal: 'TCP_SYN80', range: 'Global', number: '3.03M', size: '31M', download: 'http://121.40.211.121/Global_TCP_SYN80_20210624.zip'},
-  {scandate: '2021/06/24', protocal: 'TCP_ACK80', range: 'Global', number: '2.88M', size: '29M', download: 'http://121.40.211.121/Global_TCP_ACK80_20210624.zip'},
-  {scandate: '2022/04/24', protocal: 'ICMPv6', range: 'Global', number: '15.86M', size: '125M', download: 'http://121.40.211.121/Global_ICMPv6_20220424.zip'},
-  {scandate: '2022/04/24', protocal: 'UDP53', range: 'Global', number: '7.49M', size: '80M', download: 'http://121.40.211.121/Global_UDP_20220424.zip'},
-  {scandate: '2022/04/24', protocal: 'TCP_SYN80', range: 'Global', number: '7.57M', size: '66M', download: 'http://121.40.211.121/Global_TCP_SYN80_20220424.zip'},
-  {scandate: '2022/04/24', protocal: 'TCP_ACK80', range: 'Global', number: '3.39M', size: '39M', download: 'http://121.40.211.121/Global_TCP_ACK80_20220424.zip'},
-  {scandate: '2022/06/10', protocal: 'ICMPv6, UDP, TCP', range: 'Global', number: '31.79M (unique /80 prefixes)', size: '257M', download: 'http://121.40.211.121/Global_80Prefix_20220610.zip'},
-  {scandate: '2022/12/20', protocal: 'ICMPv6, UDP, TCP', range: 'Global', number: '77.79M', size: '598M', download: 'http://121.40.211.121/Global_HMap6_20221220.zip'}
+  {scandate: '2024/01/13', protocal: 'ICMPv6', range: 'Global', number: '42.43M', size: '270M', download: 'http://175.6.54.250/H-hitlists_non-alias.zip'}
 ]
 
 const Data2: Scan2[] = [
-  { scandate: '2022/02/18', protocal: 'ICMPv6',  range: 'Global', number: '2.88K (/32 ~ 112 prefix len)', size: '14K', download: 'http://121.40.211.121/Alias_Prefixes_20220218.zip'},
-  { scandate: '2022/06/09', protocal: 'ICMPv6',  range: 'Global', number: '85.64K (/28 ~ 120 prefix len)', size: '480K', download: 'http://121.40.211.121/Alias_Prefixes_20220609.zip'},
-  { scandate: '2022/12/12', protocal: 'ICMPv6',  range: 'Global', number: '111.38K (/28 ~ 120 prefix len)', size: '724K', download: 'http://121.40.211.121/Alias_Prefixes_20221212.zip'}
+  { scandate: '2024/01/13', protocal: 'ICMPv6',  range: 'Global', number: '1.24M (/28 ~ 120 prefix len)', size: '5.3M', download: 'http://175.6.54.250/aliased_prefixes_20231229.zip'}
 ]
 
 const Data3: Scan3[] = [
