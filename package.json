@@ -10,14 +10,20 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@kjgl77/datav-vue3": "^1.7.2",
     "@vueuse/core": "^8.9.0",
+    "ant-design-vue": "^4.2.1",
     "axios": "^0.27.2",
     "dayjs": "^1.11.3",
+    "echarts": "^5.5.0",
     "file-saver": "^2.0.5",
+    "iview": "^3.5.4",
+    "less": "^4.2.0",
     "lodash-es": "^4.17.21",
     "naive-ui": "^2.31.0",
     "pinia": "^2.0.14",
     "vue": "^3.2.25",
+    "vue-good-table": "^2.21.11",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {

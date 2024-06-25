@@ -26,6 +26,9 @@ source /root/.bashrc
 # install node-modules
 pnpm install
 
+pnpm install @kjgl77/datav-vue3
+pnpm install echarts
+
 # nginx config
 vi /etc/nginx/sites-enabled/default
 
