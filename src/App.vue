@@ -28,8 +28,22 @@ const themeOverrides: GlobalThemeOverrides = {
     :date-locale="dateZhCN"
   >
     <n-loading-bar-provider>
-      <n-message-provider placement="bottom" :max="1">
-        <router-view v-slot="{ Component }">
+      <n-message-provider placement="bottom" :max="1" style="">
+        <router-view
+          v-slot="{ Component }"
+          style="
+            background-image: -webkit-radial-gradient(
+              ellipse farthest-corner at center center,
+              #1b44e4 0%,
+              #020f3a 100%
+            );
+            background-image: radial-gradient(
+              ellipse farthest-corner at center center,
+              #1b44e4 0%,
+              #020f3a 100%
+            );
+          "
+        >
           <transition :duration="200" name="fade-top" mode="out-in">
             <component :is="Component" />
           </transition>

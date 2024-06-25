@@ -1,0 +1,897 @@
+{
+  "title": "IPv6 Assets by Country Scanned on 2024-06-24 (K)",
+  "data": [
+    {
+      "name": "AF-阿富汗",
+      "value": 0.07
+    },
+    {
+      "name": "AO-安哥拉",
+      "value": 0.3
+    },
+    {
+      "name": "AL-阿尔巴尼亚",
+      "value": 8.98
+    },
+    {
+      "name": "DZ-阿尔及利亚",
+      "value": 0.84
+    },
+    {
+      "name": "AR-阿根廷",
+      "value": 126.51
+    },
+    {
+      "name": "AM-亚美尼亚",
+      "value": 1.22
+    },
+    {
+      "name": "AU-澳大利亚",
+      "value": 186.87
+    },
+    {
+      "name": "AT-奥地利",
+      "value": 67.05
+    },
+    {
+      "name": "AZ-阿塞拜疆",
+      "value": 0.23
+    },
+    {
+      "name": "BI-布隆迪",
+      "value": 0.0
+    },
+    {
+      "name": "BE-比利时",
+      "value": 28.05
+    },
+    {
+      "name": "BJ-贝宁",
+      "value": 0.02
+    },
+    {
+      "name": "BF-布基纳法索",
+      "value": 27.02
+    },
+    {
+      "name": "BD-孟加拉国",
+      "value": 5.61
+    },
+    {
+      "name": "BG-保加利亚",
+      "value": 254.54
+    },
+    {
+      "name": "BA-波斯尼亚和黑塞哥维那",
+      "value": 0.16
+    },
+    {
+      "name": "BY-白俄罗斯",
+      "value": 7.43
+    },
+    {
+      "name": "BZ-伯利兹",
+      "value": 1.01
+    },
+    {
+      "name": "BM-百慕大群岛",
+      "value": 0.05
+    },
+    {
+      "name": "BO-玻利维亚",
+      "value": 60.99
+    },
+    {
+      "name": "BR-巴西",
+      "value": 3462.15
+    },
+    {
+      "name": "BN-文莱",
+      "value": 0.0
+    },
+    {
+      "name": "BT-不丹",
+      "value": 1.04
+    },
+    {
+      "name": "BW-博茨瓦纳",
+      "value": 0.05
+    },
+    {
+      "name": "KH-柬埔寨",
+      "value": 0.48
+    },
+    {
+      "name": "CM-喀麦隆",
+      "value": 0.13
+    },
+    {
+      "name": "CA-加拿大",
+      "value": 154.84
+    },
+    {
+      "name": "CF-中非共和国",
+      "value": 0.0
+    },
+    {
+      "name": "TD-乍得",
+      "value": 0.02
+    },
+    {
+      "name": "CL-智利",
+      "value": 56.78
+    },
+    {
+      "name": "CN-中国",
+      "value": 22919.6
+    },
+    {
+      "name": "CO-哥伦比亚",
+      "value": 31.59
+    },
+    {
+      "name": "CG-刚果",
+      "value": 14.65
+    },
+    {
+      "name": "CI-科特迪瓦",
+      "value": 17.7
+    },
+    {
+      "name": "CR-哥斯达黎加",
+      "value": 16.66
+    },
+    {
+      "name": "HR-克罗地亚",
+      "value": 0.97
+    },
+    {
+      "name": "CU-古巴",
+      "value": 0.01
+    },
+    {
+      "name": "CY-塞浦路斯",
+      "value": 95.36
+    },
+    {
+      "name": "CZ-捷克共和国",
+      "value": 395.02
+    },
+    {
+      "name": "CD-民主刚果",
+      "value": 9.42
+    },
+    {
+      "name": "DK-丹麦",
+      "value": 104.02
+    },
+    {
+      "name": "DJ-吉布提",
+      "value": 0.03
+    },
+    {
+      "name": "DO-多米尼加共和国",
+      "value": 2.67
+    },
+    {
+      "name": "TL-东帝汶",
+      "value": 0.02
+    },
+    {
+      "name": "EC-厄瓜多尔",
+      "value": 51.31
+    },
+    {
+      "name": "EG-埃及",
+      "value": 0.75
+    },
+    {
+      "name": "SV-萨尔瓦多",
+      "value": 0.41
+    },
+    {
+      "name": "GQ-赤道几内亚",
+      "value": 0.09
+    },
+    {
+      "name": "ER-厄立特里亚",
+      "value": 0.0
+    },
+    {
+      "name": "EE-爱沙尼亚",
+      "value": 121.53
+    },
+    {
+      "name": "ET-埃塞俄比亚",
+      "value": 0.0
+    },
+    {
+      "name": "FK-福克兰群岛",
+      "value": 0.0
+    },
+    {
+      "name": "FJ-斐济",
+      "value": 3.71
+    },
+    {
+      "name": "FI-芬兰",
+      "value": 130.71
+    },
+    {
+      "name": "FR-法国",
+      "value": 7077.89
+    },
+    {
+      "name": "GF-法属圭亚那",
+      "value": 0.01
+    },
+    {
+      "name": "TF-法属南部领地",
+      "value": 0.0
+    },
+    {
+      "name": "GA-加蓬",
+      "value": 0.92
+    },
+    {
+      "name": "GM-冈比亚",
+      "value": 0.0
+    },
+    {
+      "name": "DE-德国",
+      "value": 2460.8
+    },
+    {
+      "name": "GE-格鲁吉亚",
+      "value": 0.58
+    },
+    {
+      "name": "GH-加纳",
+      "value": 0.11
+    },
+    {
+      "name": "GR-希腊",
+      "value": 57.83
+    },
+    {
+      "name": "GL-格陵兰",
+      "value": 0.01
+    },
+    {
+      "name": "GT-危地马拉",
+      "value": 1.18
+    },
+    {
+      "name": "GN-几内亚",
+      "value": 0.0
+    },
+    {
+      "name": "GW-几内亚比绍",
+      "value": 0.0
+    },
+    {
+      "name": "GY-圭亚那",
+      "value": 0.17
+    },
+    {
+      "name": "HT-海地",
+      "value": 0.02
+    },
+    {
+      "name": "HM-赫德岛和麦克唐纳群岛",
+      "value": 0.0
+    },
+    {
+      "name": "HN-洪都拉斯",
+      "value": 4.82
+    },
+    {
+      "name": "HU-匈牙利",
+      "value": 319.43
+    },
+    {
+      "name": "IS-冰岛",
+      "value": 2.24
+    },
+    {
+      "name": "IN-印度",
+      "value": 38860.6
+    },
+    {
+      "name": "ID-印度尼西亚",
+      "value": 31.5
+    },
+    {
+      "name": "IR-伊朗",
+      "value": 19.9
+    },
+    {
+      "name": "IQ-伊拉克",
+      "value": 5.36
+    },
+    {
+      "name": "IE-爱尔兰",
+      "value": 64.98
+    },
+    {
+      "name": "IL-以色列",
+      "value": 96.24
+    },
+    {
+      "name": "IT-意大利",
+      "value": 20.77
+    },
+    {
+      "name": "JM-牙买加",
+      "value": 0.23
+    },
+    {
+      "name": "JP-日本",
+      "value": 1171.42
+    },
+    {
+      "name": "JO-乔丹",
+      "value": 0.33
+    },
+    {
+      "name": "KZ-哈萨克斯坦",
+      "value": 3.59
+    },
+    {
+      "name": "KE-肯尼亚",
+      "value": 1.12
+    },
+    {
+      "name": "XK-科索沃",
+      "value": 0.0
+    },
+    {
+      "name": "KW-科威特",
+      "value": 0.49
+    },
+    {
+      "name": "KG-吉尔吉斯斯坦",
+      "value": 0.22
+    },
+    {
+      "name": "LA-老挝人民民主共和国",
+      "value": 0.37
+    },
+    {
+      "name": "LV-拉脱维亚",
+      "value": 1.28
+    },
+    {
+      "name": "LB-黎巴嫩",
+      "value": 0.33
+    },
+    {
+      "name": "LS-莱索托",
+      "value": 0.02
+    },
+    {
+      "name": "LR-利比里亚",
+      "value": 0.01
+    },
+    {
+      "name": "LY-利比亚",
+      "value": 0.05
+    },
+    {
+      "name": "LT-立陶宛",
+      "value": 67.8
+    },
+    {
+      "name": "LU-卢森堡",
+      "value": 27.71
+    },
+    {
+      "name": "MG-马达加斯加",
+      "value": 0.02
+    },
+    {
+      "name": "MW-马拉维",
+      "value": 0.17
+    },
+    {
+      "name": "MY-马来西亚",
+      "value": 1213.13
+    },
+    {
+      "name": "MV-马尔代夫",
+      "value": 0.1
+    },
+    {
+      "name": "ML-马里",
+      "value": 0.3
+    },
+    {
+      "name": "MT-马耳他",
+      "value": 0.35
+    },
+    {
+      "name": "MR-毛里塔尼亚",
+      "value": 0.0
+    },
+    {
+      "name": "MU-毛里求斯",
+      "value": 8.41
+    },
+    {
+      "name": "MX-墨西哥",
+      "value": 350.78
+    },
+    {
+      "name": "MD-摩尔多瓦",
+      "value": 50.74
+    },
+    {
+      "name": "MN-蒙古",
+      "value": 14.47
+    },
+    {
+      "name": "ME-黑山",
+      "value": 0.02
+    },
+    {
+      "name": "MA-摩洛哥",
+      "value": 1.0
+    },
+    {
+      "name": "MZ-莫桑比克",
+      "value": 0.01
+    },
+    {
+      "name": "MM-缅甸",
+      "value": 0.42
+    },
+    {
+      "name": "NA-纳米比亚",
+      "value": 0.0
+    },
+    {
+      "name": "NP-尼泊尔",
+      "value": 140.84
+    },
+    {
+      "name": "NL-荷兰",
+      "value": 722.7
+    },
+    {
+      "name": "NZ-新西兰",
+      "value": 73.91
+    },
+    {
+      "name": "NI-尼加拉瓜",
+      "value": 5.01
+    },
+    {
+      "name": "NE-尼日尔",
+      "value": 0.0
+    },
+    {
+      "name": "NG-尼日利亚",
+      "value": 0.27
+    },
+    {
+      "name": "KP-朝鲜",
+      "value": 0.0
+    },
+    {
+      "name": "NO-挪威",
+      "value": 276.82
+    },
+    {
+      "name": "OM-阿曼",
+      "value": 0.66
+    },
+    {
+      "name": "PK-巴基斯坦",
+      "value": 5.28
+    },
+    {
+      "name": "PA-巴拿马",
+      "value": 1.15
+    },
+    {
+      "name": "PG-巴布亚新几内亚",
+      "value": 0.35
+    },
+    {
+      "name": "PY-巴拉圭",
+      "value": 3.94
+    },
+    {
+      "name": "PE-秘鲁",
+      "value": 27.78
+    },
+    {
+      "name": "PH-菲律宾",
+      "value": 543.68
+    },
+    {
+      "name": "PL-波兰",
+      "value": 213.79
+    },
+    {
+      "name": "PT-葡萄牙",
+      "value": 44.87
+    },
+    {
+      "name": "PR-波多黎各",
+      "value": 0.42
+    },
+    {
+      "name": "QA-卡塔尔",
+      "value": 6.63
+    },
+    {
+      "name": "RO-罗马尼亚",
+      "value": 1550.74
+    },
+    {
+      "name": "RU-俄罗斯",
+      "value": 1292.31
+    },
+    {
+      "name": "RW-卢旺达",
+      "value": 21.47
+    },
+    {
+      "name": "SA-沙特阿拉伯",
+      "value": 48.55
+    },
+    {
+      "name": "SN-塞内加尔",
+      "value": 0.05
+    },
+    {
+      "name": "RS-塞尔维亚",
+      "value": 4.19
+    },
+    {
+      "name": "SL-塞拉利昂",
+      "value": 0.01
+    },
+    {
+      "name": "SG-新加坡",
+      "value": 183.63
+    },
+    {
+      "name": "SK-斯洛伐克",
+      "value": 2.97
+    },
+    {
+      "name": "SI-斯洛文尼亚",
+      "value": 42.83
+    },
+    {
+      "name": "SB-所罗门群岛",
+      "value": 0.01
+    },
+    {
+      "name": "SO-索马里",
+      "value": 0.01
+    },
+    {
+      "name": "ZA-南非",
+      "value": 15.07
+    },
+    {
+      "name": "ES-西班牙",
+      "value": 556.9
+    },
+    {
+      "name": "LK-斯里兰卡",
+      "value": 50.14
+    },
+    {
+      "name": "SD-苏丹",
+      "value": 0.0
+    },
+    {
+      "name": "SR-苏里南",
+      "value": 0.3
+    },
+    {
+      "name": "SZ-斯威士兰",
+      "value": 0.0
+    },
+    {
+      "name": "SE-瑞典",
+      "value": 155.59
+    },
+    {
+      "name": "CH-瑞士",
+      "value": 740.53
+    },
+    {
+      "name": "SY-叙利亚",
+      "value": 0.0
+    },
+    {
+      "name": "TW-台湾",
+      "value": 129.57
+    },
+    {
+      "name": "TJ-塔吉克斯坦",
+      "value": 0.05
+    },
+    {
+      "name": "TZ-坦桑尼亚",
+      "value": 0.35
+    },
+    {
+      "name": "TH-泰国",
+      "value": 413.77
+    },
+    {
+      "name": "TG-多哥",
+      "value": 1.2
+    },
+    {
+      "name": "TT-特立尼达和多巴哥",
+      "value": 51.8
+    },
+    {
+      "name": "TN-突尼斯",
+      "value": 0.45
+    },
+    {
+      "name": "TR-土耳其",
+      "value": 287.7
+    },
+    {
+      "name": "TM-土库曼斯坦",
+      "value": 0.0
+    },
+    {
+      "name": "UG-乌干达",
+      "value": 3.41
+    },
+    {
+      "name": "UA-乌克兰",
+      "value": 794.85
+    },
+    {
+      "name": "AE-阿拉伯联合酋长国",
+      "value": 90.25
+    },
+    {
+      "name": "GB-英国",
+      "value": 5794.78
+    },
+    {
+      "name": "US-美国",
+      "value": 60813.71
+    },
+    {
+      "name": "UY-乌拉圭",
+      "value": 1.43
+    },
+    {
+      "name": "UZ-乌兹别克斯坦",
+      "value": 0.51
+    },
+    {
+      "name": "VU-瓦努阿图",
+      "value": 0.41
+    },
+    {
+      "name": "VA-梵蒂冈",
+      "value": 0.0
+    },
+    {
+      "name": "VE-委内瑞拉",
+      "value": 1.09
+    },
+    {
+      "name": "VN-越南",
+      "value": 91.38
+    },
+    {
+      "name": "EH-西撒哈拉",
+      "value": 0.0
+    },
+    {
+      "name": "YE-也门",
+      "value": 0.02
+    },
+    {
+      "name": "ZM-赞比亚",
+      "value": 0.01
+    },
+    {
+      "name": "ZW-津巴布韦",
+      "value": 0.04
+    },
+    {
+      "name": "GD-格林纳达",
+      "value": 0.09
+    },
+    {
+      "name": "BH-巴林",
+      "value": 13.12
+    },
+    {
+      "name": "KR-韩国",
+      "value": 38.9
+    },
+    {
+      "name": "HK-香港",
+      "value": 26.44
+    },
+    {
+      "name": "SM-圣马力诺",
+      "value": 0.1
+    },
+    {
+      "name": "VG-英属维尔京群岛",
+      "value": 3.1
+    },
+    {
+      "name": "AG-安提瓜和巴布达",
+      "value": 1.9
+    },
+    {
+      "name": "PF-法属波利尼西亚",
+      "value": 0.06
+    },
+    {
+      "name": "GU-关岛",
+      "value": 0.23
+    },
+    {
+      "name": "MO-澳门",
+      "value": 2.03
+    },
+    {
+      "name": "MP-北马里亚纳群岛",
+      "value": 0.0
+    },
+    {
+      "name": "NC-新喀里多尼亚",
+      "value": 5.67
+    },
+    {
+      "name": "GI-直布罗陀",
+      "value": 0.75
+    },
+    {
+      "name": "TO-汤加",
+      "value": 0.01
+    },
+    {
+      "name": "WS-萨摩亚",
+      "value": 0.03
+    },
+    {
+      "name": "AS-美属萨摩亚",
+      "value": 0.0
+    },
+    {
+      "name": "PW-帕劳",
+      "value": 0.02
+    },
+    {
+      "name": "MH-马绍尔群岛",
+      "value": 0.01
+    },
+    {
+      "name": "FM-密克罗尼西亚联邦",
+      "value": 0.02
+    },
+    {
+      "name": "BB-巴巴多斯",
+      "value": 0.1
+    },
+    {
+      "name": "KN-圣基茨和尼维斯",
+      "value": 0.0
+    },
+    {
+      "name": "AI-安圭拉",
+      "value": 5.08
+    },
+    {
+      "name": "TC-特克斯和凯科斯群岛",
+      "value": 1.53
+    },
+    {
+      "name": "GP-瓜德罗普",
+      "value": 0.25
+    },
+    {
+      "name": "MF-圣马丁",
+      "value": 0.01
+    },
+    {
+      "name": "VI-美属维尔京群岛",
+      "value": 0.01
+    },
+    {
+      "name": "DM-多米尼克",
+      "value": 8.96
+    },
+    {
+      "name": "LC-圣卢西亚",
+      "value": 6.91
+    },
+    {
+      "name": "BS-巴哈马",
+      "value": 0.15
+    },
+    {
+      "name": "BL-圣巴泰勒米",
+      "value": 0.05
+    },
+    {
+      "name": "SX-荷属圣马丁",
+      "value": 0.06
+    },
+    {
+      "name": "CW-库拉索",
+      "value": 0.11
+    },
+    {
+      "name": "AW-阿鲁巴",
+      "value": 0.0
+    },
+    {
+      "name": "BQ-荷兰加勒比区",
+      "value": 0.0
+    },
+    {
+      "name": "MK-马其顿",
+      "value": 0.23
+    },
+    {
+      "name": "LI-列支敦士登",
+      "value": 7.26
+    },
+    {
+      "name": "PS-巴勒斯坦",
+      "value": 0.17
+    },
+    {
+      "name": "IM-马恩岛",
+      "value": 1.13
+    },
+    {
+      "name": "SC-塞舌尔",
+      "value": 1284.0
+    },
+    {
+      "name": "AD-安道尔",
+      "value": 0.03
+    },
+    {
+      "name": "FO-法罗群岛",
+      "value": 0.07
+    },
+    {
+      "name": "MQ-马提尼克",
+      "value": 0.04
+    },
+    {
+      "name": "MC-摩纳哥",
+      "value": 0.06
+    },
+    {
+      "name": "AX-奥兰群岛",
+      "value": 0.05
+    },
+    {
+      "name": "RE-留尼汪",
+      "value": 0.33
+    },
+    {
+      "name": "ST-圣多美和普林西比",
+      "value": 0.0
+    },
+    {
+      "name": "SS-南苏丹",
+      "value": 0.0
+    }
+  ]
+}

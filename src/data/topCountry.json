@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "name": "US-美国",
+      "value": 60.81
+    },
+    {
+      "name": "IN-印度",
+      "value": 38.86
+    },
+    {
+      "name": "CN-中国",
+      "value": 22.92
+    },
+    {
+      "name": "FR-法国",
+      "value": 7.08
+    },
+    {
+      "name": "GB-英国",
+      "value": 5.79
+    },
+    {
+      "name": "BR-巴西",
+      "value": 3.46
+    },
+    {
+      "name": "DE-德国",
+      "value": 2.46
+    },
+    {
+      "name": "RO-罗马尼亚",
+      "value": 1.55
+    },
+    {
+      "name": "RU-俄罗斯",
+      "value": 1.29
+    },
+    {
+      "name": "SC-塞舌尔",
+      "value": 1.28
+    }
+  ],
+  "unit": "M"
+}

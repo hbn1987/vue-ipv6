@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "name": "AS13335-CLOUDFLARENET",
+      "value": 56.48
+    },
+    {
+      "name": "AS55836-Reliance Jio Infocomm Limited",
+      "value": 37.68
+    },
+    {
+      "name": "AS4134-Chinanet",
+      "value": 17.86
+    },
+    {
+      "name": "AS12322-Free SAS",
+      "value": 5.36
+    },
+    {
+      "name": "AS5607-Sky UK Limited",
+      "value": 4.8
+    },
+    {
+      "name": "AS8708-RCS & RDS",
+      "value": 1.53
+    },
+    {
+      "name": "AS3209-Vodafone GmbH",
+      "value": 1.31
+    },
+    {
+      "name": "AS15557-SFR SA",
+      "value": 1.25
+    },
+    {
+      "name": "AS9808-China Mobile Communications Group Co., Ltd.",
+      "value": 1.09
+    },
+    {
+      "name": "AS28573-CLARO S.A.",
+      "value": 1.04
+    }
+  ],
+  "unit": "M"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "No. of Each IPv6 Asset Types (M)",
+  "data": [
+    {
+      "label": "Periphery",
+      "value": 2.31
+    },
+    {
+      "label": "Middlebox",
+      "value": 0.13
+    },
+    {
+      "label": "End-host",
+      "value": 153.86
+    },
+    {
+      "label": "Router",
+      "value": 0.68
+    }
+  ]
+}

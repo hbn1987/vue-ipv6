@@ -1,44 +1,48 @@
 import type { RouteRecordRaw } from 'vue-router'
 
-import MainLayout from '@/layouts/Index.vue'
-
 export const constRoutes: RouteRecordRaw[] = [
   {
     path: '',
-    name: 'Layout',
-    component: MainLayout,
-    redirect: { name: 'IPv6' },
+    redirect: { name: 'dashboard' },
     meta: { title: '首页', isNavMenu: false /* , permissions: ['admin'] */ },
     children: [
       {
-        path: '/ipv6',
-        name: 'IPv6',
+        path: '',
+        name: 'dashboard',
         component: () =>
-          import(/* webpackChunkName: "search" */ '@/pages/IPv6.vue'),
+          import(/* webpackChunkName: "search" */ '@/pages/dashboard.vue'),
         meta: {
-          title: 'IPv6 Scan',
+          title: 'Global IPv6 Network Asset Distribution Dashboard',
           isNavMenu: false /* , permissions: ['admin'] */,
         },
       },
     ],
   },
+  // {
+  //   path: '/ipv6dashboard',
+  //   name: 'dashboard',
+  //   component: () =>
+  //     import(/* webpackChunkName: "search" */ '@/pages/dashboard.vue'),
+  //   meta: {
+  //     title: 'Global IPv6 Network Asset Distribution Dashboard',
+  //     isNavMenu: false /* , permissions: ['admin'] */,
+  //   },
+  // },
 ]
 
 export const asyncRoutes: RouteRecordRaw[] = [
   {
     path: '',
-    name: 'Layout',
-    component: MainLayout,
-    redirect: { name: 'IPv6' },
+    redirect: { name: 'dashboard' },
     meta: { title: '首页', isNavMenu: false /* , permissions: ['admin'] */ },
     children: [
       {
-        path: '/ipv6',
-        name: 'IPv6',
+        path: '',
+        name: 'dashboard',
         component: () =>
-          import(/* webpackChunkName: "search" */ '@/pages/IPv6.vue'),
+          import(/* webpackChunkName: "search" */ '@/pages/dashboard.vue'),
         meta: {
-          title: 'IPv6 Scan',
+          title: 'Global IPv6 Network Asset Distribution Dashboard',
           isNavMenu: false /* , permissions: ['admin'] */,
         },
       },
